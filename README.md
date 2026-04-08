@@ -1,4 +1,4 @@
-# Olá, sou o Márcio 👋
+# Olá, sou o Márcio!
 
 Engenheiro de Dados baseado em Curitiba — PR. Trabalho com pipelines de dados, modelagem em camadas e integração com ferramentas de cloud e visualização.
 
