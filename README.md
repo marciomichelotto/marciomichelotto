@@ -1,6 +1,6 @@
 # Olá, sou o Márcio!
 
-Analista de Dados baseado em Curitiba — PR. Venho da engenharia de dados e uso essa base para ir direto ao ponto: modelar, tratar e carregar dados reais até virarem número que sustenta decisão, com dashboard e KPI documentado, não só pipeline funcionando.
+Analista de Dados baseado em Curitiba - PR. Venho da engenharia de dados e uso essa base para ir direto ao ponto: modelar, tratar e carregar dados reais até virarem número que sustenta decisão, com dashboard e KPI documentado, não só pipeline funcionando.
 
 Gosto de projetos que partem de dados reais e terminam em decisões melhores.
 
